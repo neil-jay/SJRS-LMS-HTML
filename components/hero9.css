@@ -48,6 +48,9 @@
   display: flex;
   align-items: flex-start;
 }
+.hero9-button {
+  text-decoration: none;
+}
 .hero9-text2 {
   text-align: center;
 }

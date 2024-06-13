@@ -42,6 +42,9 @@
   flex-direction: row;
   justify-content: flex-start;
 }
+.navbar4-link1 {
+  text-decoration: none;
+}
 .navbar4-buttons {
   gap: var(--dl-space-space-twounits);
   display: flex;
@@ -51,6 +54,7 @@
 .navbar4-action2 {
   display: flex;
   flex-direction: row;
+  text-decoration: none;
 }
 .navbar4-burger-menu {
   display: none;

@@ -85,6 +85,9 @@
   flex-shrink: 0;
   justify-content: space-between;
 }
+.footer1-content3 {
+  text-decoration: none;
+}
 .footer1-footer-links2 {
   gap: 24px;
   display: flex;
